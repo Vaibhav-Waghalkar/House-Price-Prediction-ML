@@ -108,7 +108,4 @@ __pycache__/
 
 ```
 
----
 
-You're all set to publish it now, bro! Want me to help you create a GitHub project banner or badge icons?
-```
