@@ -107,5 +107,3 @@ __pycache__/
 > ⚠️ **Note:** Do **NOT** upload your `kaggle.json` if it contains private API keys. Either delete it or include it in `.gitignore`.
 
 ```
-
-
